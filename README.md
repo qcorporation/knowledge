@@ -1,2 +1,2 @@
 # knowledge
-A dumping ground of knowledge and programming concepts and utility
+A dumping ground of knowledge, programming concepts and utility
