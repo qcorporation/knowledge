@@ -1,5 +1,17 @@
 {
     "editor.formatOnSave": true,
     "cmake.sourceDirectory": "${workspaceFolder}/cpp",
-    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "files.associations": {
+        "iosfwd": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "array": "cpp",
+        "unordered_map": "cpp",
+        "initializer_list": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp"
+    }
 }
